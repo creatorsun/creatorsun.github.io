@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: DS Blog
-subtitle: Less is more.
-description: Less is more.
-author: ds19991999
+title: 学海泛舟
+subtitle: 积跬步，至千里
+description: 积跬步，至千里
+author: sunyou
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -15,13 +15,13 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://www.ds-vip.top
+url: https://creatorsun.github.io
 # 这个baseurl就是个坑
 # baseurl: ds-vip.top
 permalink: pretty
 
-# Pagination
-paginate: 10
+# Pagination 文章每页数量
+paginate: 5
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -232,14 +232,14 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  CSDN: https://blog.csdn.net/ds19991999
-  GitHub: https://github.com/ds19991999
-  Email: mailto:super@ds-vip.top
-  Facebook: https://www.facebook.com/ds19991999
-  Twitch: https://www.twitch.tv/ds19991999
-  Twitter: https://twitter.com/ds19991999
-  YouTube: https://www.youtube.com/channel/UC_tUpZ-kfsNuiW5VoMMGCPw/featured
-  Spotify: https://soundsgood.co/curator/ds19991999
+  CSDN: null
+  GitHub: https://github.com/creatorsun
+  Email: mailto:sunyou_nuaa@163.com
+  Facebook: null
+  Twitch: null
+  Twitter: null
+  YouTube: null
+  Spotify: null
   
 
 # Social Links Icons
@@ -319,8 +319,8 @@ links_title: 友链
 links_layout: block 
 #links_layout: inline
 links:
-  帅导航: https://www.ds-vip.top/myseo/
-  幻凡ss: https://hfanss.com
+  你的导航: https://www.ds-vip.top/myseo/
+  新浪微博: https://weibo.com/u/3039817293
 
 
 # ---------------------------------------------------------------
@@ -366,8 +366,8 @@ post_wordcount:
 #  qcode: /assets/images/weipayimg.png
 #  description: 意思意思？
 reward_comment: 意思意思？
-wechatpay: /assets/images/weipayimg.png
-alipay: /assets/images/alipayimg.jpg
+wechatpay: https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resource/Wepay.jpg
+alipay: https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resource/Alipay.jpg
 # Declare license on posts
 post_copyright:
   enable: true
@@ -415,7 +415,7 @@ han: true
 # swiftype_key: tNfPWjcjXLWDXy-9pE9H
 
 # Baidu Analytics ID
-baidu_analytics: c72906569503c06a12a6edc7b7c66149
+## baidu_analytics: c72906569503c06a12a6edc7b7c66149
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -491,7 +491,9 @@ gitalk:
 
 # 可以直接安装代码，不需要配置
 # Google Analytics
-google_analytics: UA-123686345-1
+
+## google_analytics: UA-123686345-1
+
 # 百度分析ID
 # baidu_analytics: e0f7e2879e5634cc0f587da6721b6860
 
