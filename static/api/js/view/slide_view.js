@@ -11,6 +11,6 @@ window._bd_share_main.F.module("view/slide_view",function(e,t,n){var r=e("base/t
 		\u5206\u4eab\u5230</div>','<div class="bdshare-slide-list">','<ul class="bdshare-slide-list-ul"></ul>',"</div>",'<div class="bdshare-slide-bottom">','<a href="#" onclick="return false;" class="slide-more"  data-cmd="more">\u66f4\u591a...</a>',"</div>","</div>","</div>"].join("");
 		n=r(h).appendTo("body"),i=n.find("."+u.btn),o=n.find(".bdshare-slide-list-box"),a=n.find(".bdshare-slide-list-ul"),s=n.find(".bdshare-slide-list"),f=n.find(".bdshare-slide-bottom"),p(),t._entities.push(n);
 		if(r.browser.ie==6){n.css("position","absolute");var d=parseInt(n.css("top"));
-		setInterval(function(){var t=(e.bdTop|0);
+		setInterval(function(){var t=(e.bdTop|0)+r(window).scrollTop();
 			d!=t&&window._bd_share_main.F.use("component/animate",function(e){e.animate(n[0],{top:t},300)})},1e3)}},t._init=function(){var e=!1;
 	i.on("mouseenter click",d),n.on("mouseleave click",v),r("body").click(function(e){n.contains(e.target)||v()})},t._distory=function(){n.remove()}},o.ViewBase)});
