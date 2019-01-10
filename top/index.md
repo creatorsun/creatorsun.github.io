@@ -1,4 +1,4 @@
----
+<!-- ---
 title: TopX
 comments: false
 keywords: top,文章阅读量排行榜
@@ -23,7 +23,7 @@ description: 博客文章阅读量排行榜
       time=result.time;
       title=result.title;
       url=result.url;
-      var content="<a href='"+"https://ds19991999.github.io"+url+"'>"+title+"</a>"+"<br />"+"<font color='#555'>"+"阅读次数："+time+"</font>"+"<br /><br />";
+      var content="<a href='"+"https://creatorsun.github.io"+url+"'>"+title+"</a>"+"<br />"+"<font color='#555'>"+"阅读次数："+time+"</font>"+"<br /><br />";
       document.getElementById("top").innerHTML+=content
     }
   }, function (error) {
@@ -31,4 +31,4 @@ description: 博客文章阅读量排行榜
   });
 </script>
 
-<style>.post-description { display: none; }<style>
+<style>.post-description { display: none; }<style> -->

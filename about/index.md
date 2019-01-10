@@ -8,7 +8,6 @@ type: about
 
 本博客通过[jekyll-theme-next ](https://github.com/Simpleyyt/jekyll-theme-next)修改生成，感谢[Simpleyyt](https://github.com/Simpleyyt)的开发。本人有点强迫症，之前那个博客虽然看着很清秀，但是总感觉少了点什么，然后就萌发了重建博客的决定。博客搭建参考了[Next主题优化](https://zhuanlan.zhihu.com/p/30836436)和官方Next的配置说明以及一系列博客。
 
-- 关于本博客更详细的介绍见：[Wiki页](https://github.com/ds19991999/ds19991999.github.io/wiki)
 
 ## 一点思悟
 
@@ -18,12 +17,3 @@ type: about
 
 安全，私密化，独立空间，无限流量，永久保存笔记。这么让人心动的好事我们为什么不去做？
 
-## 欢迎调戏😍
-
-* 各位看官有什么问题可以点击右下角的在线联系按钮，直接联系我，是不是很方便🐤哈哈。欢迎调戏！
-* 关于本博客更详细的介绍见：[Wiki页](https://github.com/ds19991999/ds19991999.github.io/wiki)
-* 本站资源: [共享云盘](https://pan.creat.kim) ，公共账号密码默认2333.
-
-## 联系方式
-
-* [TG](https://t.me/baba233)
