@@ -27,6 +27,13 @@ type: about
 希望能持之以恒，完成从 0 到 1 的突破！
 
  
-
-   
-<center>积跬步，至千里</center>>
+ 
+<center>积土成山，风雨兴焉；</center>
+<center>积水成渊，蛟龙生焉；</center>
+<center>积善成德，而神明自得，圣心备焉。</center>
+<center>故不积跬步，无以至千里；</center>
+<center>不积小流，无以成江海。</center>
+<center>骐骥一跃，不能十步；驽马十驾，功在不舍。</center>
+<center>锲而舍之，朽木不折；锲而不舍，金石可镂。</center>
+<center>蚓无爪牙之利，筋骨之强，上食埃土，下饮黄泉，用心一也。</center>
+<center>蟹六跪而二螯，非蛇鳝之穴无可寄托者，用心躁也。</center>
