@@ -92,7 +92,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-since: 2019/01/01
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
