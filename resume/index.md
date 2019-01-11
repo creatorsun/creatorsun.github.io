@@ -13,96 +13,95 @@
         <strong>孙 友<strong><center><hr style="height:3px;width:120px; margin-top:0px; border-top:3px double red;"/></center>
 
 
-
-<div style="text-align: center"><font face = "楷体" size = "6"><strong>> 求职意向：应用软件开发、Android开发、后端开发<</strong><hr>
-
+<center><font face = "楷体" size = "6"><strong>> 求职意向：应用软件开发、Android开发、后端开发<</strong></center><hr>
 
 
 
-<h2 style="float:left;">基本信息<br><br><font size="5" face="楷体">&nbsp;
-    姓名：孙友&nbsp;&nbsp;&nbsp;&nbsp;
-    联系方式：(+86)17798530398<br><br>&nbsp;
-    学历：硕士&nbsp;&nbsp;&nbsp;&nbsp;
-    出生年月：1993年10月<br><br>&nbsp;
-    QQ:2225878051&nbsp;
-    邮箱：sunyou_nuaa@163.com<br><br>&nbsp;
-    博客：<a href="https://creatorsun.github.io">https://creatorsun.github.io</a><br></font></h2><br>
-<div style="text-align: right"><img src="https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resume/photo.jpg" width="200"></div>
 
-<h2 style="float:left;">教育背景<br><br><font size="5" face="楷体">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    时间&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    学历&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    学校&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    专业<br><br>&nbsp;
-    2012.07-2016.06&nbsp;&nbsp;&nbsp;
-    本科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    安徽大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    通信工程<br><br>&nbsp;
-    2016.09-2019.04&nbsp;&nbsp;&nbsp;
-    硕士&nbsp;&nbsp;&nbsp;&nbsp;
-    南京航空航天大学&nbsp;&nbsp;
-    电子与通信工程<br></font></h2>
 
-<hr><h2 style="float:left;">硕士成果<br><br><font size="5" face="楷体">&nbsp;
-    第一作者发表论文 2 篇<br><br>&nbsp;
-    第二作者发表论文 4 篇<br><br>&nbsp;
-    第一发明人申请专利 1 项<br><br>&nbsp;
-    非第一发明人申请专利 1 项
-    <br></font></h2>
+<center><font size="6" face="黑体">基本信息</font></center>
 
-<hr><h2 style="float:left;">荣誉证书<br><br><font size="5" face="楷体">
-    &nbsp;
-    正威奖学金&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    团学工作奖学金<br><br>&nbsp;
-    一等学业奖学金&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    优秀团学干部<br><br>&nbsp;
-    优秀学生干部&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    三好研究生<br><br>&nbsp;
-    优秀团员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    中国扶贫基金会优秀志愿者<br><br>&nbsp;
-    科技创新先进个人&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    合肥市图书馆与安徽大学图书馆优秀者愿者<br><br>&nbsp;
-    安徽大学本科生优秀毕业设计<br></font></h2>
-
-<hr><h2 style="float:left;">个人技能<br><br><font size="5" face="楷体">&nbsp;
-    Java：熟悉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Python：了解<br><br>&nbsp;
-    MySQL：熟悉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    SQL Server：熟悉<br><br>&nbsp;
-    Linux：熟悉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    C：了解<br><br>&nbsp;
-    MyBatis：了解&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    SSM框架：了解</font></h2>
-
-<hr><h2 style="float:left;">技能证书<br><br><font size="5" face="楷体">&nbsp;
-    全国计算机二级证书：C语言<br><br>&nbsp;
-    全国计算机三级证书：网络技术<br><br>&nbsp;
-    全国计算机四级证书：网络工程师<br></font></h2>
-
-<hr><h2 style="float:left;">实习/工作经历<br><br><font size="5" face="楷体">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    时间&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    职位&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    性质<br><br>&nbsp;
-    2017.07-2018.02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    苏州博伽丘&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    后端开发工程师&nbsp;&nbsp;&nbsp;
-    实习<br><br>&nbsp;
-    2018.07-2018.09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    上海华勤通讯&nbsp;&nbsp;&nbsp;
-    应用软件开发工程师&nbsp;
-    实习<br><br>&nbsp;
-    2019.06-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    南京华为研究所&nbsp;&nbsp;
-    应用软件开发工程师&nbsp;
-    工作<br></font></h2>
+|                          姓名：孙友                          | 联系方式：(+86)17798530398 |
+| :----------------------------------------------------------: | -------------------------- |
+|                          学历：硕士                          | 出生年月：1993年10月       |
+|                        QQ:2225878051                         | 邮箱：sunyou_nuaa@163.com  |
+| 博客：<a href="https://creatorsun.github.io">https://creatorsun.github.io</a> |                            |
 
 
 
-<hr><h2 style="float:left;">项目经历</h2>
-<h3 style="float:left;">昆山市淀山湖群租房管理系统</h3><div style="text-align: right"><font size = "4">2017.10——2018.02</font></div>
+<center><font size="6" face="黑体">教育背景</font></center>
+
+|      时间       | 学历 |       大学       |     专业     |
+| :-------------: | :--: | :--------------: | :----------: |
+| 2012.07-2016.06 | 本科 |     安徽大学     |   通信工程   |
+| 2016.09-2019.04 | 硕士 | 南京航空航天大学 | 电子信息工程 |
+
+
+
+<center><font size="6" face="黑体">硕士成果</font></center>
+
+|         类型         | 数量 |
+| :------------------: | :--: |
+|   第一作者发表论文   | 2 篇 |
+|   第二作者发表论文   | 4 篇 |
+|  第一发明人申请专利  | 1 项 |
+| 非第一发明人申请专利 | 1 项 |
+
+
+
+<center><font size="6" face="黑体">荣誉证书</font></center>
+
+|                  本科                  |       硕士       |
+| :------------------------------------: | :--------------: |
+|               正威奖学金               |  一等学业奖学金  |
+|             团学工作奖学金             |    三好研究生    |
+|              优秀学生干部              |     优秀团员     |
+|              优秀团学干部              | 科技创新先进个人 |
+|        中国扶贫基金会优秀志愿者        |                  |
+| 合肥市图书馆与安徽大学图书馆优秀者愿者 |                  |
+|       安徽大学本科生优秀毕业设计       |                  |
+
+
+
+<center><font size="6" face="黑体">个人技能</font></center>
+
+|    类别    | 程度 |
+| :--------: | :--: |
+|    Java    | 熟悉 |
+|   Python   | 了解 |
+|   MySQL    | 熟悉 |
+| SQL Server | 熟悉 |
+|   Linux    | 熟悉 |
+|     C      | 了解 |
+|  SSM框架   | 了解 |
+|  MyBatis   | 了解 |
+
+
+
+<center><font size="6" face="黑体">技能证书</font></center>
+
+|      证书名称      |    涉及    |
+| :----------------: | :--------: |
+| 全国计算机二级证书 |   C语言    |
+| 全国计算机三级证书 |  网络技术  |
+| 全国计算机四级证书 | 网络工程师 |
+
+
+
+<center><font size="6" face="黑体">实习/工作经历</font></center>
+
+|      时间       | 性质 |    公司名称    |         职位         |
+| :-------------: | :--: | :------------: | :------------------: |
+| 2017.07-2018.02 | 实习 |   苏州博伽丘   |    后端开发工程师    |
+| 2018.07-2018.09 | 实习 |  上海华勤通讯  | IT应用软件开发工程师 |
+|    2019.06-     | 工作 | 南京华为研究所 |  应用软件开发工程师  |
+
+
+
+<center><font size="6" face="黑体">项目经历</font></center>
+
+<h2 style="float:left;">昆山市淀山湖群租房管理系统</h2><div style="text-align: right"><font size = "4">2017.10——2018.02</font></div>
+
 
 > 开发环境：Windows
 >
@@ -155,8 +154,6 @@
 
 
 <center><font face = "楷体" size = "4" color = "green">相信美好的事情终会发生</font></center>
-
-------
 
 ---
 
