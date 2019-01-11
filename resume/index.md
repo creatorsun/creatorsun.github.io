@@ -1,10 +1,10 @@
 <center><font size=6 face="Blackadder ITC">Copyright belongs to SunYou</font></center>
 
--------
+---
 
-------
+---
 
-------
+---
 
 
 
@@ -157,7 +157,7 @@
 
 <center><font face = "楷体" size = "4" color = "green">相信美好的事情终会发生</font></center>
 
-------
+---
 
 ---
 
