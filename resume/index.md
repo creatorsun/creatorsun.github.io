@@ -1,4 +1,4 @@
-<center><font size=6 >Copyright belongs to SunYou</center>
+<center><font face = "Blackadder ITC" size = 6 >Copyright belongs to SunYou</center>
 
 ---
 ---
@@ -159,4 +159,4 @@
 
 ---
 
-<center><font size=6 face="Blackadder ITC">Copyright belongs to SunYou</font></center>
+<center><font face="Blackadder ITC" size=6>Copyright belongs to SunYou</font></center>
