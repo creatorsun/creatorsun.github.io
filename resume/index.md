@@ -19,7 +19,7 @@
 
 
 
-<h2 style="float:left;">基本信息<br><hr><font size="5" face="楷体">&nbsp;
+<h2 style="float:left;">基本信息<br><br><font size="5" face="楷体">&nbsp;
     姓名：孙友&nbsp;&nbsp;&nbsp;&nbsp;
     联系方式：(+86)17798530398<br><br>&nbsp;
     学历：硕士&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,9 +27,9 @@
     QQ:2225878051&nbsp;
     邮箱：sunyou_nuaa@163.com<br><br>&nbsp;
     博客：<a href="https://creatorsun.github.io">https://creatorsun.github.io</a><br></font></h2><br>
-<div style="text-align: right"><img src="https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resume/photo.jpg" width="200"></font></div>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resume/photo.jpg" width="200"></div>
 
-<hr><h2 style="float:left;">教育背景<br><hr><font size="5" face="楷体">
+<h2 style="float:left;">教育背景<br><br><font size="5" face="楷体">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     时间&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     学历&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,14 +44,14 @@
     南京航空航天大学&nbsp;&nbsp;
     电子与通信工程<br></font></h2>
 
-<hr><h2 style="float:left;">硕士成果<br><hr><font size="5" face="楷体">&nbsp;
+<hr><h2 style="float:left;">硕士成果<br><br><font size="5" face="楷体">&nbsp;
     第一作者发表论文 2 篇<br><br>&nbsp;
     第二作者发表论文 4 篇<br><br>&nbsp;
     第一发明人申请专利 1 项<br><br>&nbsp;
     非第一发明人申请专利 1 项
     <br></font></h2>
 
-<hr><h2 style="float:left;">荣誉证书<br><hr><font size="5" face="楷体">
+<hr><h2 style="float:left;">荣誉证书<br><br><font size="5" face="楷体">
     &nbsp;
     正威奖学金&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     团学工作奖学金<br><br>&nbsp;
@@ -65,7 +65,7 @@
     合肥市图书馆与安徽大学图书馆优秀者愿者<br><br>&nbsp;
     安徽大学本科生优秀毕业设计<br></font></h2>
 
-<hr><h2 style="float:left;">个人技能<br><hr><font size="5" face="楷体">&nbsp;
+<hr><h2 style="float:left;">个人技能<br><br><font size="5" face="楷体">&nbsp;
     Java：熟悉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Python：了解<br><br>&nbsp;
     MySQL：熟悉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,12 +75,12 @@
     MyBatis：了解&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     SSM框架：了解</font></h2>
 
-<hr><h2 style="float:left;">技能证书<br><hr><font size="5" face="楷体">&nbsp;
+<hr><h2 style="float:left;">技能证书<br><br><font size="5" face="楷体">&nbsp;
     全国计算机二级证书：C语言<br><br>&nbsp;
     全国计算机三级证书：网络技术<br><br>&nbsp;
     全国计算机四级证书：网络工程师<br></font></h2>
 
-<hr><h2 style="float:left;">实习/工作经历<br><hr><font size="5" face="楷体">
+<hr><h2 style="float:left;">实习/工作经历<br><br><font size="5" face="楷体">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     时间&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,6 +98,7 @@
     南京华为研究所&nbsp;&nbsp;
     应用软件开发工程师&nbsp;
     工作<br></font></h2>
+
 
 
 <hr><h2 style="float:left;">项目经历</h2>
