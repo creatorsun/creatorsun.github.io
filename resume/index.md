@@ -1,4 +1,4 @@
-<center><font size=6 face="Blackadder ITC">Copyright belongs to SunYou</font></center>
+<center><font size=6 face="楷体">Copyright belongs to SunYou</font></center>
 
 ---
 
@@ -11,8 +11,6 @@
 <div style="text-align: center">
     <font face = "黑体" size = "10">
         <strong>孙 友<strong><center><hr style="height:3px;width:120px; margin-top:0px; border-top:3px double red;"/></center>
-    </font>
-</div>
 
 
 <div style="text-align: center"><font face = "楷体" size = "6"><strong>> 求职意向：应用软件开发、Android开发、后端开发<</strong><hr>
@@ -29,7 +27,7 @@
     QQ:2225878051&nbsp;
     邮箱：sunyou_nuaa@163.com<br><br>&nbsp;
     博客：<a href="https://creatorsun.github.io">https://creatorsun.github.io</a><br></font></h2><br>
-<div style="text-align: right"><img src="https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resume/photo.jpg" width="200"></font></div>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resume/photo.jpg" width="200">
 
 <hr><h2 style="float:left;">教育背景<br><hr><font size=5 face="楷体">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,7 +42,7 @@
     2016.09-2019.04&nbsp;&nbsp;&nbsp;
     硕士&nbsp;&nbsp;&nbsp;&nbsp;
     南京航空航天大学&nbsp;&nbsp;
-    电子与通信工程<br></font></h2>
+    电子与通信工程<br></h2>
 
 <hr><h2 style="float:left;">硕士成果<br><hr><font size=5 face="楷体">&nbsp;
     第一作者发表论文 2 篇<br><br>&nbsp;
@@ -65,7 +63,7 @@
     中国扶贫基金会优秀志愿者<br><br>&nbsp;
     科技创新先进个人&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     合肥市图书馆与安徽大学图书馆优秀者愿者<br><br>&nbsp;
-    安徽大学本科生优秀毕业设计<br></font></h2>
+    安徽大学本科生优秀毕业设计<br></h2>
 
 <hr><h2 style="float:left;">个人技能<br><hr><font size=5 face="楷体">&nbsp;
     Java：熟悉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -99,14 +97,14 @@
     2019.06-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     南京华为研究所&nbsp;&nbsp;
     应用软件开发工程师&nbsp;
-    工作<br></font></h2>
+    工作<br></h2>
 
 <hr><h2 style="float:left;">项目经历</h2>
 
 <h3 style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp;昆山市淀山湖群租房管理系统</h3><div style="text-align: right"><font size = "4">2017.10——2018.02</font></div>
 
 > 开发环境：Windows
->
+
 > 使用工具：Eclipse、Tomcat、SQL server、Maven、SVN、Postman、Swagger
 
 * 负责系统数据库的设计搭建，包括数据表格的创建与关联等。数据库管理系统采用SQL server；
