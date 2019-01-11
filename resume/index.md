@@ -29,7 +29,7 @@
     QQ:2225878051&nbsp;
     邮箱：sunyou_nuaa@163.com<br><br>&nbsp;
     博客：<a href="https://creatorsun.github.io">https://creatorsun.github.io</a><br></font></h2><br>
-<div style="text-align: right"><img src="E:\school\postgraduate\简历\孙友\照片.jpg" width="200"></font></div>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/creatorsun/creatorsun.github.io/master/resume/photo.jpg" width="200"></font></div>
 
 <hr><h2 style="float:left;">教育背景<br><hr><font size=5 face="楷体">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
