@@ -1,61 +1,37 @@
-# Craig Davis
-## Senior PHP Developer, UX Director
+# 简历
 
-> [Download PDF](resume.pdf)  
-> [craig@there4development.com](craig@there4development.com)  
-> (999) 888-7777
+## 简历
 
-------
+### 简历
 
-### Profile {#profile}
+#### 简历
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+##### 简历
 
-------
+###### 简历
 
-### Skills {#skills}
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
 
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
+Typora
 
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+与
 
--------
+Github
 
-### Technical {#technical}
+以及
 
-1. XHTML
-2. CSS
-3. Javascript
-4. Jquery
-5. PHP
-6. CVS / Subversion
-7. OS X
-8. Windows XP/Vista
-9. Linux
+Blog
 
-------
+三者
 
-### Experience {#experience}
+显示
 
-Initrode Conglomerated
-: *Principal and Creative Lead*
-  __2004-2005__
-  Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
+各不同
 
-Gizmonic Institute Company (GIM)
-: *Lead Web Designer*
-  __2001-2004__
-  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+无法
 
-------
+制定
 
-### Footer {#footer}
+优美
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
-
-------
+简历
