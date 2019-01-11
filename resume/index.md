@@ -1,9 +1,7 @@
-<center><font size=6 face="楷体">Copyright belongs to SunYou</font></center>
+<center><font size=6 >Copyright belongs to SunYou</center>
 
 ---
-
 ---
-
 ---
 
 
