@@ -102,9 +102,8 @@
 
 <h2 style="float:left;">昆山市淀山湖群租房管理系统</h2><div style="text-align: right"><font size = "4">2017.10——2018.02</font></div>
 
-
 > 开发环境：Windows
->
+
 > 使用工具：Eclipse、Tomcat、SQL server、Maven、SVN、Postman、Swagger
 
 * 负责系统数据库的设计搭建，包括数据表格的创建与关联等。数据库管理系统采用SQL server；
