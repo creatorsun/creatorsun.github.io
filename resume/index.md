@@ -1,6 +1,4 @@
-<center><font face = "Blackadder ITC" size = 6 >Copyright belongs to SunYou</center>
-
----
+<div style="text-align: center"><font face = "楷体" size = "4">Copyright belongs to SunYou
 ---
 ---
 
