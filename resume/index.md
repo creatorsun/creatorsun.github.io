@@ -15,8 +15,7 @@
 </div>
 
 
-
-<div style="text-align: center"><font face = "楷体" size = "6"><strong>> 求职意向：应用软件开发、Android开发、后端开发<</strong></font></div><hr>
+<div style="text-align: center"><font face = "楷体" size = "6"><strong>> 求职意向：应用软件开发、Android开发、后端开发<</strong><hr>
 
 
 
