@@ -2,7 +2,7 @@
 title: 简历
 date: 2019-01-12
 updated: 2019-01-12
-description: 简历
+description: 用Markdown制作的个人简历
 categories: GitHub
 tags: Markdown
 ---
